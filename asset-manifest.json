@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jbankura.github.io/csb-ygj3d/static/css/main.1b825ded.chunk.css",
+    "main.js": "https://jbankura.github.io/csb-ygj3d/static/js/main.c3a66178.chunk.js",
+    "main.js.map": "https://jbankura.github.io/csb-ygj3d/static/js/main.c3a66178.chunk.js.map",
+    "runtime-main.js": "https://jbankura.github.io/csb-ygj3d/static/js/runtime-main.2a981872.js",
+    "runtime-main.js.map": "https://jbankura.github.io/csb-ygj3d/static/js/runtime-main.2a981872.js.map",
+    "static/js/2.e64c60ff.chunk.js": "https://jbankura.github.io/csb-ygj3d/static/js/2.e64c60ff.chunk.js",
+    "static/js/2.e64c60ff.chunk.js.map": "https://jbankura.github.io/csb-ygj3d/static/js/2.e64c60ff.chunk.js.map",
+    "index.html": "https://jbankura.github.io/csb-ygj3d/index.html",
+    "static/css/main.1b825ded.chunk.css.map": "https://jbankura.github.io/csb-ygj3d/static/css/main.1b825ded.chunk.css.map",
+    "static/js/2.e64c60ff.chunk.js.LICENSE.txt": "https://jbankura.github.io/csb-ygj3d/static/js/2.e64c60ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a981872.js",
+    "static/js/2.e64c60ff.chunk.js",
+    "static/css/main.1b825ded.chunk.css",
+    "static/js/main.c3a66178.chunk.js"
+  ]
+}
